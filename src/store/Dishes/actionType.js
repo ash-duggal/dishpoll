@@ -1,0 +1,3 @@
+export const DISH_GET_REQUEST = "DISH_GET_REQUEST";
+export const DISH_GET_SUCCESS = "DISH_GET_SUCCESS";
+export const DISH_GET_ERROR = "DISH_GET_ERROR";
